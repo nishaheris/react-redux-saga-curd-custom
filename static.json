@@ -1,0 +1,147 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "ename": "Leanne Grahamdsdsd",
+      "designation": "PHP Developer",
+      "email": "Sincere@april.biz",
+      "location": "Ahmedabad",
+      "experince": "5 Year",
+      "phone": "9558879632"
+    },
+    {
+      "id": 3,
+      "ename": "Clementine Bauch",
+      "designation": "React Developer",
+      "email": "Clementine@april.biz",
+      "location": "Ahmedabad",
+      "experince": "0.5",
+      "phone": "9878522136"
+    },
+    {
+      "id": 4,
+      "ename": "Chelsey Dietrich",
+      "designation": "QA",
+      "email": "Chelsey@april.biz",
+      "location": "Delhi",
+      "experince": "0.5",
+      "phone": "9878522136"
+    },
+    {
+      "id": 5,
+      "ename": "Kurtis Weissnat",
+      "designation": "Web Developer",
+      "email": "Kurtis@april.biz",
+      "location": "Delhi",
+      "experince": "3 Year",
+      "phone": "9875215630"
+    },
+    {
+      "id": 6,
+      "ename": "Glenna Reichert",
+      "designation": "PHP Head",
+      "email": "Glenna@april.biz",
+      "location": "Ahmedabad",
+      "experince": "7 Year",
+      "phone": "9875215630"
+    },
+    {
+      "id": 9,
+      "ename": "Devid Richard sadddadsdads",
+      "designation": "Sales Developer",
+      "email": "Richard@april.biz",
+      "location": "Ahmedabad",
+      "experince": "10 Year",
+      "phone": "9878722333"
+    },
+    {
+      "id": 10,
+      "ename": "Devid Richard",
+      "designation": "Sales Developer",
+      "email": "Richard@april.biz",
+      "location": "Ahmedabad",
+      "experince": "10 Year",
+      "phone": "9878722333"
+    },
+    {
+      "id": 11,
+      "ename": "Rahul Pandya",
+      "designation": "PHP Developer",
+      "email": "Rahul@april.biz",
+      "location": "Ahmedabad",
+      "experince": "10 Year",
+      "phone": "9878722333"
+    },
+    {
+      "id": 12,
+      "ename": "Rinkal Panchal",
+      "designation": "PHP Developer",
+      "email": "Rinkal@april.biz",
+      "location": "Ahmedabad",
+      "experince": "10 Year",
+      "phone": "9878722333"
+    },
+    {
+      "id": 13,
+      "ename": "Khushbu Bhavsar",
+      "designation": "Designer",
+      "email": "Khushbu@april.biz",
+      "location": "Ahmedabad",
+      "experince": "10 Year",
+      "phone": "9878722333"
+    }
+  ],
+  "userProfile": {
+    "firstname": "Admin",
+    "lastname": "LTE",
+    "designation": "Web Developer",
+    "education": "B.S. in Computer Science from the University of Tennessee at Knoxville",
+    "location": "Malibu, California",
+    "skills": "UI Design React.js",
+    "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam fermentum enim neque."
+  },
+  "products": [
+    {
+      "id": 1,
+      "pname": "Google Pixel 6",
+      "price": "48,220",
+      "brand": "Google Pixel"
+    },
+    {
+      "id": 2,
+      "pname": "iPhone",
+      "price": "1,20,000",
+      "brand": "iPhone"
+    },
+    {
+      "id": 3,
+      "pname": "Samsung galaxy S22",
+      "price": "71,000",
+      "brand": "Samusung"
+    },
+    {
+      "id": 4,
+      "pname": "Samsung galaxy S22 ultra",
+      "price": "1,12,000",
+      "brand": "Samusung"
+    },
+    {
+      "id": 5,
+      "pname": "OnePlus 9Pro 5G",
+      "price": "49,000",
+      "brand": "OnePlus"
+    },
+    {
+      "id": 6,
+      "pname": "Samsung galaxy M12",
+      "price": "10,499",
+      "brand": "Samsung"
+    },
+    {
+      "id": 7,
+      "pname": "Motorola G60",
+      "price": "15,999",
+      "brand": "Motorola"
+    }
+  ]
+}
